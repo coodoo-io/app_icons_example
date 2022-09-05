@@ -13,20 +13,6 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^1.0.2
 
-flutter_icons:
-  image_path: "assets/icon.png"
-  adaptive_icon_foreground: "assets/icon_foreground.png" # only available for Android 8.0 devices and above
-  adaptive_icon_background: "#196bc8"
-  android: true
-  ios: true
-
-flutter_native_splash:
-  image: assets/logo.png
-  color: "#196bc8"
-  android_12:
-    image: assets/icon_foreground.png
-    color: "#196bc8"
-
 dev_dependencies:
   flutter_test:
     sdk: flutter

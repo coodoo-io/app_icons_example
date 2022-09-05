@@ -1,0 +1,6 @@
+flutter_icons:
+  image_path: "assets/icon.png"
+  adaptive_icon_foreground: "assets/icon_foreground.png" # only available for Android 8.0 devices and above
+  adaptive_icon_background: "#196bc8"
+  android: true
+  ios: true
